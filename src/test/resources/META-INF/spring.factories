@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = de.intagau.myvueapp.\
+    config.SqlTestContainersSpringContextCustomizerFactory
